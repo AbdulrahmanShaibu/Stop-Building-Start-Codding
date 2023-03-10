@@ -1,3 +1,5 @@
+Hi I am Abdul Rahman shaibu kheir
+The student from state university of Zanzibar 
 # ChatConnect <img src="images/chatbot-logo.png" height="30px" width="35px">
 
 <br><hr>
